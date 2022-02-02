@@ -36,7 +36,7 @@ _only if you want to write require('os') in your javascript_
 ```json
 {
   "react-native": {
-    "os": "react-native-os"
+    "os": "@ln1778/react-native-os"
   }
 }
 ```

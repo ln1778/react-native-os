@@ -1,5 +1,5 @@
 rootProject.name = 'OsInfo'
-include ':react-native-os'
-project(':react-native-os').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-os/android')
+include ':ln1778_react-native-os'
+project(':ln1778_react-native-os').projectDir = new File(rootProject.projectDir, '../node_modules/@ln1778/react-native-os/android')
 
 include ':app'
