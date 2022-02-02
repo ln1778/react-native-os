@@ -1,6 +1,6 @@
 {
-  "name": "react-native-os",
-  "version": "1.1.0",
+  "name": "@ln1778/react-native-os",
+  "version": "1.0.0",
   "description": "node's os module for react-native",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PeelTechnologies/react-native-os"
+    "url": "git+https://github.com/PeelTechnologies/react-native-os.git"
   },
   "keywords": [
     "react-component",
@@ -18,10 +18,7 @@
     "ios",
     "android"
   ],
-  "author": {
-    "name": "Andy Prock",
-    "email": "aprock@gmail.com"
-  },
+  "author": "Andy Prock <aprock@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/PeelTechnologies/react-native-os/issues"
@@ -30,5 +27,8 @@
   "devDependencies": {
     "babel-eslint": "^4.1.6",
     "eslint-plugin-react": "^3.11.3"
+  },
+  "directories": {
+    "example": "examples"
   }
 }
